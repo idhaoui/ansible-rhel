@@ -1,7 +1,7 @@
 # ワークショップ演習 - インベントリー、認証情報、およびアドホックコマンド
 
 **その他の言語はこちらをお読みください。**:
-<br>![uk](../../../images/uk.png) [English](README.md),![japan](../../../images/japan.png)[日本語](README.ja.md),![france](../../../images/fr.png) [Française](README.fr.md),![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../../images/uk.png) [English](README.md),![japan](../../images/japan.png)[日本語](README.ja.md),![france](../../images/fr.png) [Française](README.fr.md),![Español](../../images/col.png) [Español](README.es.md).
 
 ## 目次
 

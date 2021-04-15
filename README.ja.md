@@ -55,4 +55,4 @@ Ansibleのベストプラクティスもあわせてご覧ください:
  - [Ansible - はじめに](http://docs.ansible.com/ansible/latest/intro_getting_started.html)
 
 ---
-![Red Hat Ansible Automation](../../images/rh-ansible-automation-platform.png)
+![Red Hat Ansible Automation](../images/rh-ansible-automation-platform.png)

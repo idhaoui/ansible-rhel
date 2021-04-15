@@ -1,7 +1,7 @@
 # Ansible Workshop - Ansible for Red Hat Enterprise Linux
 
 **Read this in other languages**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Français](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Français](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
 <br>
 
 Ansible is simple yet powerful IT automation for application deployment, configuration management, and orchestration that you can learn quickly. In the first section of this lab you will learn to use command-line Ansible for automation from the basics up to some more advanced concepts. The second section of this lab covers Ansible Automation Platform and provide the user an overview of what Ansible Tower is, how it works and what the benefit of it is.

@@ -1,7 +1,7 @@
 # Ansible Workshop - Ansible for Red Hat Enterprise Linux
 
 **Leer esto en otros idiomas**:
-<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Français](README.fr.md), ![Español](../images/col.png) [Español](README.es.md).
+<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Français](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
 <br>
 
 Ansible es un motor de automatización de TI simple pero potente para la implementación de aplicaciones, la administración de la configuración y la orquestación que puede aprender rápidamente.
@@ -61,4 +61,4 @@ También hay una serie de ejercicios que van más allá de nuestro contenido nor
  - [Ansible Getting Started](http://docs.ansible.com/ansible/latest/intro_getting_started.html)
 
 ---
-![Red Hat Ansible Automation](../images/rh-ansible-automation-platform.png)
+![Red Hat Ansible Automation](../../images/rh-ansible-automation-platform.png)

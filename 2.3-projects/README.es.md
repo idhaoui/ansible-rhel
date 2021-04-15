@@ -1,7 +1,7 @@
 # Workshop - Proyectos y plantillas de trabajo
 
 **Lee esto en otros idiomas***:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## Tabla de contenidos
 
@@ -139,14 +139,14 @@ Una plantilla de trabajo es una definición y un conjunto de parámetros para ej
 
 - **¿Qué** Playbook para usar?
 
-Bien, vamos a hacer eso: Vaya a la vista **Templates**, haga clic en el ![plus](images/green_plus.png) y elija **Job Template**.
+Bien, vamos a hacer eso: Vaya a la vista **Templates**, haga clic en el ![plus](../images/green_plus.png) y elija **Job Template**.
 
 > **Consejo**
 >
 > Recuerde que a menudo puede hacer clic en la lupa para obtener una visión general de las opciones que puede elegir para rellenar los campos.
 
 
-Okay, let’s just do that: Go to the **Templates** view, click the ![plus](images/green_plus.png) button and choose **Job Template**.
+Okay, let’s just do that: Go to the **Templates** view, click the ![plus](../images/green_plus.png) button and choose **Job Template**.
 
 <table>
   <tr>
@@ -191,7 +191,7 @@ Okay, let’s just do that: Go to the **Templates** view, click the ![plus](imag
 
 Puede iniciar el trabajo haciendo clic directamente en el botón azul **LAUNCH** o haciendo clic en el cohete en la vista general de Job Templates. Después de iniciar la plantilla de trabajo, se re direccionará automáticamente a la descripción general del trabajo, donde puede seguir la ejecución del playbook en tiempo real:
 
-![job exection](images/job_overview.png)
+![job exection](../images/job_overview.png)
 
 Puesto que esto puede tomar algún tiempo, eche un vistazo más de cerca a todos los detalles proporcionados:
 

@@ -1,7 +1,7 @@
 # Workshop - Encuestas
 
 **Lee esto en otros idiomas**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## Tabla de contenidos
 
@@ -57,7 +57,7 @@ Ahora creará una nueva plantilla que incluye una encuesta.
 
 ### Crear la Plantilla
 
-- Ir a **Templates**, haga clic en el ![plus](images/green_plus.png) y elija **Job Template**
+- Ir a **Templates**, haga clic en el ![plus](../images/green_plus.png) y elija **Job Template**
 
 - **NAME:** Create index.html
 

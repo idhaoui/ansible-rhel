@@ -1,7 +1,7 @@
 # ワークショップ演習 - プロジェクトとジョブテンプレート
 
 **その他の言語はこちらをお読みください。**
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## 目次
 
@@ -149,7 +149,7 @@ Ansible **Job**を実行する前に、まとめる **Job Template** を作成�
 
 * **What** 使用する Playbook
 
-実際にやってみましょう。**Templates** ビューに移動して、![plus](images/green_plus.png)
+実際にやってみましょう。**Templates** ビューに移動して、![plus](../images/green_plus.png)
 ボタンをクリックし、**Job Template** を選択します。
 
 > **ヒント**
@@ -201,7 +201,7 @@ Ansible **Job**を実行する前に、まとめる **Job Template** を作成�
 の概要でロケットをクリックすると、ジョブを開始できます。ジョブテンプレートを起動すると、自動的にジョブの概要が表示され、Playbook
 の実行をリアルタイムで追跡できます。
 
-![ジョブの実行](images/job_overview.png)
+![ジョブの実行](../images/job_overview.png)
 
 これには時間がかかる場合があるため、提供されているすべての詳細を詳しく調べてください。
 

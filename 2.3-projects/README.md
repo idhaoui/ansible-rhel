@@ -1,7 +1,7 @@
 # Workshop Exercise - Projects & job templates
 
 **Read this in other languages**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## Table Contents
 
@@ -139,7 +139,7 @@ A job template is a definition and set of parameters for running an Ansible job.
 
 * **What** Playbook to use?
 
-Okay, let’s just do that: Go to the **Templates** view, click the ![plus](images/green_plus.png) button and choose **Job Template**.
+Okay, let’s just do that: Go to the **Templates** view, click the ![plus](../images/green_plus.png) button and choose **Job Template**.
 
 > **Tip**
 >
@@ -188,7 +188,7 @@ Okay, let’s just do that: Go to the **Templates** view, click the ![plus](imag
 
 You can start the job by directly clicking the blue **LAUNCH** button, or by clicking on the rocket in the Job Templates overview. After launching the Job Template, you are automatically brought to the job overview where you can follow the playbook execution in real time:
 
-![job exection](images/job_overview.png)
+![job exection](../images/job_overview.png)
 
 Since this might take some time, have a closer look at all the details provided:
 

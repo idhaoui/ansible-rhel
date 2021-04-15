@@ -1,7 +1,7 @@
 #Atelier - Les projets & modèles
 
 **Lisez ceci dans d'autres langues**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## Table des matières
 
@@ -138,7 +138,7 @@ Un modèle de travail est une définition et un ensemble de paramètres permetta
 
 - **Quoi** Playbook à utiliser?
 
-D'accord, allons-y: accédez à la vue **Modèles**, cliquez sur le bouton ![Plus](images/green_plus.png) et choisissez **Modèle de tâche**.
+D'accord, allons-y: accédez à la vue **Modèles**, cliquez sur le bouton ![Plus](../images/green_plus.png) et choisissez **Modèle de tâche**.
 
 > ** Astuce **
 >
@@ -187,7 +187,7 @@ D'accord, allons-y: accédez à la vue **Modèles**, cliquez sur le bouton ![Plu
 
 Vous pouvez démarrer le travail en cliquant directement sur le bouton bleu **LANCEMENT**, ou en cliquant sur la fusée dans l'aperçu des modèles de travail. Après avoir lancé la taches, vous êtes automatiquement amené à l'aperçu des taches où vous pouvez suivre l'exécution du playbook en temps réel:
 
-![Exection de travail](images/job_overview.png)
+![Exection de travail](../images/job_overview.png)
 
 Étant donné que cela peut prendre un certain temps, examinez de plus près tous les détails fournis:
 

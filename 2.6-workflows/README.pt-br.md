@@ -1,7 +1,7 @@
 # Exercício - Workflows
 
 **Leia em outras linguagens**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 * [Ansible Tower Workflows](#ansible-tower-workflows)
   * [Cenário de laboratório](#cenário-de-laboratório)
@@ -194,9 +194,9 @@ Seu workflow está pronto para ser iniciado.
 
   - Clique no botão azul **LAUNCH** diretamente ou acesse a visualização **Templates** e inicie o workflow **Deploy Webapp Server** clicando no ícone do foguete.
 
-![jobs view of workflow](images/job_workflow.png)
+![jobs view of workflow](../images/job_workflow.png)
 
-Observe como a execução do workflow é mostrada na exibição da tarefa. Ao contrário da execução normal de um job template, desta vez, não há saída do Playbook à direita, mas uma representação visual das diferentes etapas do workflow. Se você quiser ver os Playbooks reais por trás disso, clique em **DETAILS** em cada etapa. Se você deseja voltar de uma visualização de detalhes para o workflow correspondente, clique no botão ![w-button](images/w_button.png) na linha **JOB TEMPLATE** na parte **DETAILS** à esquerda, lado da visão geral do job.
+Observe como a execução do workflow é mostrada na exibição da tarefa. Ao contrário da execução normal de um job template, desta vez, não há saída do Playbook à direita, mas uma representação visual das diferentes etapas do workflow. Se você quiser ver os Playbooks reais por trás disso, clique em **DETAILS** em cada etapa. Se você deseja voltar de uma visualização de detalhes para o workflow correspondente, clique no botão ![w-button](../images/w_button.png) na linha **JOB TEMPLATE** na parte **DETAILS** à esquerda, lado da visão geral do job.
 
 Após a conclusão do job, verifique se tudo funcionou bem: efetue login em `node1`, `node2` ou `node3` no host de controle e execute:
 

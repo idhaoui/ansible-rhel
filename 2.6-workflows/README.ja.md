@@ -1,7 +1,7 @@
 # ワークショップ演習 - ワークフロー
 
 **その他の言語はこちらをお読みください。**
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## 目次
 
@@ -236,7 +236,7 @@ Web 開発者チームのプロジェクトを作成します。**Project** ビ�
 ワークフローを設定します。ワークフローは **Template** ビューで構成されます。テンプレートを追加するときに、**Job Template**
 と **Workflow Template** のどちらかを選択できることに気付いたかもしれません。
 
-  ![workflow add](images/workflow_add.png)
+  ![workflow add](../images/workflow_add.png)
 
 **Templates** ビューに移動して、今回は、**Workflow Template** を選択します。
 
@@ -266,7 +266,7 @@ Web 開発者チームのプロジェクトを作成します。**Project** ビ�
 * ノードには、ジョブの名前が注釈として付けられます。マウスポインターをノードに合わせると、赤い **x**、緑の ** + **、青い
   **chain** 記号が表示されます。
 
-  ![workflow node](images/workflow_node.png)
+  ![workflow node](../images/workflow_node.png)
 
 > **ヒント**
 >
@@ -295,14 +295,14 @@ Web 開発者チームのプロジェクトを作成します。**Project** ビ�
 青い **LAUNCH** ボタンを直接クリックするか、**Templates** ビューに移動し、ロケットアイコンをクリックして **Deploy
 Webapp Server** ワークフローを起動します。
 
-  ![起動](images/launch.png)
+  ![起動](../images/launch.png)
 
 ワークフローの実行がジョブビューにどのように表示されるかに注目してください。通常のジョブテンプレートのジョブの実行と比べ、今回のものには、右側には
 Playbook の出力はありませんが、さまざまなワークフローステップの視覚的表現があります。その背後にある実際の Playbook
 を見たい場合は、各ステップで **詳細** をクリックしてください。詳細ビューから対応するワークフローに戻る場合は、ジョブ概要の左側の
-**DETAIS** 部分の **JOB TEMPLATE** の ![w-button](images/w_button.png) をクリックします。
+**DETAIS** 部分の **JOB TEMPLATE** の ![w-button](../images/w_button.png) をクリックします。
 
-![jobs view of workflow](images/job_workflow.png)
+![jobs view of workflow](../images/job_workflow.png)
 
 ジョブが終了した後、すべてが正常に動作したことを確認します。コントロールホストから `node1`、`node2`、`node3`
 にログインし、以下を実行します。

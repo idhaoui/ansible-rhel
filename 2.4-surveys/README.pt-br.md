@@ -1,7 +1,7 @@
 # Exercise - Surveys
 
 **Leia em outras linguagens**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 * [Criando o projeto](#criando-o-projeto)
 * [Criando um template com uma Survey](#criando-um-template-com-uma-survey)
@@ -40,7 +40,7 @@ Agora você irá criar um novo template que inclui uma survey.
 
 ### Crie o Template
 
-- Vá para **Template**, clique no botão ![Plus] (images/green_plus.png) e escolha **Job Template**
+- Vá para **Template**, clique no botão ![Plus] (../images/green_plus.png) e escolha **Job Template**
 
 - **NAME:** Crie index.html
 

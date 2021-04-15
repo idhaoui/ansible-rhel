@@ -1,6 +1,6 @@
 # Exercício 2.2 - Inventários, Credenciais e comandos ad hoc
 
-**Read this in other languages**: ![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md).
+**Read this in other languages**: ![uk](../../../../images/uk.png) [English](README.md),  ![japan](../../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md).
 
 * [Criando um inventário](#criando-um-inventário)
 * [Credenciais de máquina](#credenciais-de-máquina)
@@ -16,7 +16,7 @@ Vamos começar: a primeira coisa que precisamos é de um inventário de seus hos
 
 Criando o inventário:
 
-  - No menu da interface web no lado esquerdo, vá para **RESOURCES** → **Inventories**, clique no botão ![plus](images/green_plus.png) no lado direito e escolha **Inventory**.
+  - No menu da interface web no lado esquerdo, vá para **RESOURCES** → **Inventories**, clique no botão ![plus](../images/green_plus.png) no lado direito e escolha **Inventory**.
 
   - **NAME:** Inventario Workshop
 
@@ -65,7 +65,7 @@ Observe os nomes dos nós e os endereços IP, vamos usá-los para preencher o in
 
   - Clique no botão **HOSTS**
 
-  - À direita, clique no botão ![plus](images/green_plus.png)
+  - À direita, clique no botão ![plus](../images/green_plus.png)
 
   - **HOST NAME:** `node1`
 
@@ -112,13 +112,13 @@ O que isto significa?
 
 Agora vamos configurar as credenciais para acessar nossos hosts gerenciados do Tower. No menu **RESOURCES**, escolha **CREDENTIALS**. Agora:
 
-Clique no botão ![plus](images/green_plus.png) para adicionar novas credenciais
+Clique no botão ![plus](../images/green_plus.png) para adicionar novas credenciais
 
   - **NAME:** Credenciais Workshop
 
   - **ORGANIZATION:** Default
 
-  - **CREDENTIAL TYPE:** Clique na lupa, escolha **Machine** e clique em ![plus](images/select.png)
+  - **CREDENTIAL TYPE:** Clique na lupa, escolha **Machine** e clique em ![plus](../images/select.png)
 
   - **CREDENTIAL TYPE:** Machine
 

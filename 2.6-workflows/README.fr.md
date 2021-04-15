@@ -1,7 +1,7 @@
 # Atelier - Les workflows
 
 **Lisez ceci dans d'autres langues**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Française](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
 
 ## Table des matières
 
@@ -269,9 +269,9 @@ Votre workflow est prêt à démarrer, lancez-le.
 
   - Cliquez directement sur le bouton bleu **LANCEMENT** ou accédez à la vue **Modèles** et lancez le flux de travail **Déployer Webapp Server** en cliquant sur l'icône de fusée.
 
-![vue des tâches du workflow](images/job_workflow.png)
+![vue des tâches du workflow](../images/job_workflow.png)
 
-Notez comment l'exécution du flux de travail est affichée dans la vue des travaux. Contrairement à l'exécution normale d'un travail de modèle de travail cette fois, il n'y a pas de sortie de playbook à droite, mais une représentation visuelle des différentes étapes du flux de travail. Si vous souhaitez consulter les playbooks réels derrière cela, cliquez sur **DÉTAILS** à chaque étape. Si vous souhaitez revenir d'une vue détaillée au flux de travail correspondant, cliquez sur le bouton ![W-bouton](images/w_button.png) dans la ligne **Tâches** de la partie **DETAILS** à gauche côté de l'aperçu de l'emploi.
+Notez comment l'exécution du flux de travail est affichée dans la vue des travaux. Contrairement à l'exécution normale d'un travail de modèle de travail cette fois, il n'y a pas de sortie de playbook à droite, mais une représentation visuelle des différentes étapes du flux de travail. Si vous souhaitez consulter les playbooks réels derrière cela, cliquez sur **DÉTAILS** à chaque étape. Si vous souhaitez revenir d'une vue détaillée au flux de travail correspondant, cliquez sur le bouton ![W-bouton](../images/w_button.png) dans la ligne **Tâches** de la partie **DETAILS** à gauche côté de l'aperçu de l'emploi.
 
 Une fois le travail terminé, vérifiez si tout a bien fonctionné: connectez-vous à `node1`, `node2` ou `node3` à partir de votre hôte de contrôle et exécutez:
 ```bash

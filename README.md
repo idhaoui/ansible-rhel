@@ -64,4 +64,4 @@ There is also a series of exercises that go above and beyond our normal workshop
 * [Supplemental Exercises](supplemental)
 
 ---
-![Red Hat Ansible Automation](../images/rh-ansible-automation-platform.png)
+![Red Hat Ansible Automation](images/rh-ansible-automation-platform.png)

@@ -1,7 +1,7 @@
 # Exercício - Projects & job templates
 
 **Leia em outras linguagens**:
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md), ![Español](../images/col.png) [Español](README.es.md).
 
 * [Configurando o repositório Git](#configurando-o-repositório-git)
 * [Criando o projeto](#criando-o-projeto)
@@ -66,7 +66,7 @@ Para configurar e usar este repositório como um sistema **Source Control Manage
 
 ## Criando o projeto
 
-  - Vá para **RESOURCES → Projects** na visualização do menu lateral, clique no botão ![plus](../images / green_plus.png). Preencha o formulário:
+  - Vá para **RESOURCES → Projects** na visualização do menu lateral, clique no botão ![plus](images / green_plus.png). Preencha o formulário:
 
   - **NAME:** Exemplos Ansible Workshop
 
@@ -104,7 +104,7 @@ Um Job template é uma definição e um conjunto de parâmetros para executar um
 
 - **What** Playbook é para usar?
 
-Ok, vamos fazer isso: vá para a visualização **Templates**, clique no botão ![plus](../images/green_plus.png) e escolha **Job template**.
+Ok, vamos fazer isso: vá para a visualização **Templates**, clique no botão ![plus](images/green_plus.png) e escolha **Job template**.
 
 > **Dica**
 >
@@ -128,7 +128,7 @@ Ok, vamos fazer isso: vá para a visualização **Templates**, clique no botão 
 
 Você pode iniciar o trabalho clicando diretamente no botão azul **LAUNCH**, ou clicando no foguete na visão geral de Job Template. Depois de iniciar o Job Template, você é automaticamente levado para a visão geral do job, onde pode acompanhar a execução do playbook em tempo real:
 
-![job exection](../images/job_overview.png)
+![job exection](images/job_overview.png)
 
 Como isso pode levar um tempo, verifique todos os detalhes fornecidos:
 

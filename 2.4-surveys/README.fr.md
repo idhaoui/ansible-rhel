@@ -1,7 +1,7 @@
 # Atelier - Les questionnaires
 
 **Lisez ceci dans d'autres langues**:
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md), ![Español](../images/col.png) [Español](README.es.md).
 
 ## Table des matières
 
@@ -55,7 +55,7 @@ Vous créez maintenant un nouveau modèle qui inclut un forulaire.
 
 ### Création d un modèle
 
-- Allez dans **Modèles**, cliquez sur le bouton! [Plus](../images/green_plus.png) et choisissez **Modèle de tâche**
+- Allez dans **Modèles**, cliquez sur le bouton! [Plus](images/green_plus.png) et choisissez **Modèle de tâche**
 
 - **NOM:** Créez index.html
 

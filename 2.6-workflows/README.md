@@ -1,7 +1,7 @@
 # Workshop Exercise - Workflows
 
 **Read this in other languages**:
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md), ![Español](../images/col.png) [Español](README.es.md).
 
 ## Table Contents
 
@@ -232,7 +232,7 @@ Click **SAVE**
 
 Set up the workflow. Workflows are configured in the **Templates** view, you might have noticed you can choose between **Job Template** and **Workflow Template** when adding a template.
 
-  ![workflow add](../images/workflow_add.png)
+  ![workflow add](images/workflow_add.png)
 
 Go to the **Templates** view and click the green plus button. This time choose **Workflow Template**
 
@@ -257,7 +257,7 @@ After saving the template the **Workflow Visualizer** opens to allow you to buil
 
 * The node gets annotated with the name of the job. Hover the mouse pointer over the node, you’ll see a red **x**, a green **+** and a blue **chain**-symbol appear.
 
-  ![workflow node](../images/workflow_node.png)
+  ![workflow node](images/workflow_node.png)
 
 > **Tip**
 >
@@ -285,11 +285,11 @@ Your workflow is ready to go, launch it.
 
 Click the blue **LAUNCH** button directly or go to the **Templates** view and launch the **Deploy Webapp Server** workflow by clicking the rocket icon.
 
-  ![launch](../images/launch.png)
+  ![launch](images/launch.png)
 
-Note how the workflow run is shown in the job view. In contrast to a normal job template job execution this time there is no playbook output on the right, but a visual representation of the different workflow steps. If you want to look at the actual playbooks behind that, click **DETAILS** in each step. If you want to get back from a details view to the corresponding workflow, click the ![w-button](../images/w_button.png) in the **JOB TEMPLATE** line in the **DETAILS** part on the left side of the job overview.
+Note how the workflow run is shown in the job view. In contrast to a normal job template job execution this time there is no playbook output on the right, but a visual representation of the different workflow steps. If you want to look at the actual playbooks behind that, click **DETAILS** in each step. If you want to get back from a details view to the corresponding workflow, click the ![w-button](images/w_button.png) in the **JOB TEMPLATE** line in the **DETAILS** part on the left side of the job overview.
 
-![jobs view of workflow](../images/job_workflow.png)
+![jobs view of workflow](images/job_workflow.png)
 
 After the job was finished, check if everything worked fine: log into `node1`, `node2` or `node3` from your control host and run:
 

@@ -1,7 +1,7 @@
 # ワークショップ演習 - Ansible Tower の概要
 
 **その他の言語はこちらをお読みください。**
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md),![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md),![Español](../images/col.png) [Español](README.es.md).
 
 ## 目次
 
@@ -63,7 +63,7 @@ Ansible TowerのWeb UI では、次を示すグラフのあるダッシュボー
 
 このダッシュボードには、Playbook で完了したタスクの実行に関するリアルタイムデータも表示されます。
 
-![Ansible Tower ダッシュボード](../images/dashboard.png)
+![Ansible Tower ダッシュボード](images/dashboard.png)
 
 ### コンセプト
 

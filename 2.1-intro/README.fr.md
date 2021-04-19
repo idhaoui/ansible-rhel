@@ -1,7 +1,7 @@
 # Atelier - Introduction à Ansible Tower
 
 **Lisez ceci dans d'autres langues**:
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md),![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md),![Español](../images/col.png) [Español](README.es.md).
 
 ## Table des matières
 
@@ -67,7 +67,7 @@ L'interface utilisateur Web d'Ansible Tower vous accueille avec un tableau de bo
 
 Le tableau de bord affiche également des données en temps réel sur l'exécution des tâches terminées dans les playbooks.
 
-![Tableau de bord de la tour Ansible](../images/dashboard.png)
+![Tableau de bord de la tour Ansible](images/dashboard.png)
 
 ## Concepts
 

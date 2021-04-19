@@ -1,7 +1,7 @@
 # 演習 - アンケート
 
 **その他の言語はこちらをお読みください。**
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md), ![Español](../images/col.png) [Español](README.es.md).
 
 ## 目次
 
@@ -63,7 +63,7 @@ Playbook とロールは、`apache_install.yml` Playbook と同じ Github
 
 #### テンプレートの作成
 
-* **Templates** に移動し、![plus](../images/green_plus.png) ボタンをクリックして、**Job
+* **Templates** に移動し、![plus](images/green_plus.png) ボタンをクリックして、**Job
   Template** を選択します。
 
 * 次の情報を入力します。

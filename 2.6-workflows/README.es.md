@@ -1,7 +1,7 @@
 # Workshop - Flujos de trabajo
 
 **Lee esto en otros idiomas**:
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md), ![Español](../../../images/col.png) [Español](README.es.md).
+<br>![uk](../images/uk.png) [English](README.md),  ![japan](../images/japan.png)[日本語](README.ja.md), ![brazil](../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../images/fr.png) [Française](README.fr.md), ![Español](../images/col.png) [Español](README.es.md).
 
 ## Tabla de contenidos
 
@@ -233,7 +233,7 @@ Vaya a la vista **Templates**, haga clic en el + del botón verde y elija **Job 
 
 Configure el flujo de trabajo. Los flujos de trabajo se configuran en la vista **Templates**, es posible que haya notado que puede elegir entre **Job Template** y **Workflow Template** al agregar una plantilla.
 
-  ![workflow add](../images/workflow_add.png)
+  ![workflow add](images/workflow_add.png)
 
   - Vaya a la vista **Templates** y haga clic en el + del botón verde. Esta vez elija **Workflow Template**
   <table>
@@ -257,7 +257,7 @@ Después de guardar la plantilla, se abre el **Workflow Visualizer** para permit
 
   - El nodo se anota con el nombre del trabajo. Pase el puntero del ratón sobre el nodo, y verá un rojo **x**, un verde **+** y un símbolode**cadena**símbolo azul
 
-  ![workflow node](../images/workflow_node.png)
+  ![workflow node](images/workflow_node.png)
 
 > **Consejo**
 >
@@ -289,11 +289,11 @@ Su flujo de trabajo está listo para iniciarse, ejecútelo.
 
 - Haga clic en el botón azul **LAUNCH** directamente o vaya a la vista **Templates** e inicie el flujo de trabajo **Deploy Webapp Server** haciendo clic en el icono del cohete.
 
-  ![launch](../images/launch.png)
+  ![launch](images/launch.png)
 
-Observe cómo se muestra la ejecución del flujo de trabajo en la vista de trabajo. A diferencia de una ejecución de trabajo de plantilla de trabajo normal esta vez, no hay ninguna salida de playbooks a la derecha, sino una representación visual de los diferentes pasos del flujo de trabajo. Si quieres ver los playbooks reales detrás de eso, haz clic en **DETAILS** en cada paso. Si desea volver de una vista de detalles al flujo de trabajo correspondiente, haga clic en el archivo ![w-button](../images/w_button.png) en la línea **JOB TEMPLATE** de la parte **DETAILS** en el lado izquierdo de la descripción general del trabajo.
+Observe cómo se muestra la ejecución del flujo de trabajo en la vista de trabajo. A diferencia de una ejecución de trabajo de plantilla de trabajo normal esta vez, no hay ninguna salida de playbooks a la derecha, sino una representación visual de los diferentes pasos del flujo de trabajo. Si quieres ver los playbooks reales detrás de eso, haz clic en **DETAILS** en cada paso. Si desea volver de una vista de detalles al flujo de trabajo correspondiente, haga clic en el archivo ![w-button](images/w_button.png) en la línea **JOB TEMPLATE** de la parte **DETAILS** en el lado izquierdo de la descripción general del trabajo.
 
-![jobs view of workflow](../images/job_workflow.png)
+![jobs view of workflow](images/job_workflow.png)
 
 Una vez finalizado el trabajo, compruebe si todo ha funcionado bien: inicie sesión en `node1`, `node2` o `node3` desde el host de control y ejecute:
 

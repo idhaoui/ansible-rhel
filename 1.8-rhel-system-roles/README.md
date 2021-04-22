@@ -21,29 +21,32 @@ In this exercise you will:
 
 ## Guide
 
-### Step 1 - List currently available roles on the system
+### Step 1 - Install RHEL System Roles
+
+First, list currently available roles on the system:
 
 ```bash
 [student<X@>ansible ~]$ ansible-galaxy list
+```
+
+Now let's install the rhel-system-roles package
+
+```bash
+[student<X@>ansible ~]$ sudo yum install rhel-system-roles
 ```
 
 > **Note**
 >
 > Red Hat Enterprise Linux 8 uses the dnf package manager and shell command. However, yum aliases are available for convenience.
 
-### Step 2 - Install rhel-system-roles Package
 
-```bash
-[student<X@>ansible ~]$ sudo yum install rhel-system-roles
-```
-
-### Step 3 - List newly available RHEL System Roles on the system
+We can now list newly available RHEL System Roles on the system with the first command we used:
 
 ```bash
 [student<X@>ansible ~]$ ansible-galaxy list
 ```
 
-### Step 4 - Create a playbook **configure_time.yml**
+### Step 2 - Create a playbook **configure_time.yml**
 
 ```yaml
 ---
@@ -53,6 +56,46 @@ In this exercise you will:
   roles:
     - rhel-system-roles.timesync
 ```
+
+### Step 3 - Adapt the variables used within the role to suit your needs
+
+Review the Role Variables section of the README.md file for the rhel-system-roles.timesync role:
+
+```bash
+[student<X@>ansible ~]$ cat /usr/share/doc/rhel-system-roles/timesync/README.md
+```
+
+We will need to pick from the available variables to apply the desired configuration.
+
+First, create the group_vars/all subdirectory:
+
+```bash
+[student<X@>ansible ~]$ mkdir -pv group_vars/all
+```
+
+Create a new file group_vars/all/timesync.yml:
+
+```yaml
+---
+#rhel-system-roles.timesync variables for all hosts
+
+timesync_ntp_provider: chrony
+
+timesync_ntp_servers:
+  - hostname: ???
+    iburst: yes
+```
+
+### Step 4 - Try it out
+
+Run the playbook !
+
+Some tasks will result in errors, because they attempt to stop services that are not running in this exercise. The timesync system role would typically expect to find and stop the deprecated NTP services. This is perfectly normal.
+
+```bash
+[student<X@>ansible ~]$ ansible-playbook configure_time.yml
+```
+
 ---
 **Navigation**
 <br>

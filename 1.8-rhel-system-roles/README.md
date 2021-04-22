@@ -11,22 +11,48 @@
 
 ## Objective
 
-* Learn about Red Hat provided Ansible roles for Red Hat Enterprise Linux
+Red Hat Enterprise Linux includes Ansible system roles to simplify automation of common operations, and configuration of Red Hat Enterprise Linux subsystems.
+
+In this exercise you will:
+
+* Learn about RHEL System Roles included with Red Hat Enterprise Linux
 * Configure a host to use RHEL System Roles
-* Write a playbook to call a RHEL System Role
+* Use one of the RHEL system roles in conjunction with a normal task to configure time synchronization and the time zone on your server
 
 ## Guide
 
-### Step 1 - Install rhel-system-roles Package
+### Step 1 - List currently available roles on the system
 
 ```bash
-[student<X@>ansible ~]$ sudo yum install rhel-system-roles
+[student<X@>ansible ~]$ ansible-galaxy list
 ```
 
 > **Note**
 >
 > Red Hat Enterprise Linux 8 uses the dnf package manager and shell command. However, yum aliases are available for convenience.
 
+### Step 2 - Install rhel-system-roles Package
+
+```bash
+[student<X@>ansible ~]$ sudo yum install rhel-system-roles
+```
+
+### Step 3 - List newly available RHEL System Roles on the system
+
+```bash
+[student<X@>ansible ~]$ ansible-galaxy list
+```
+
+### Step 4 - Create a playbook **configure_time.yml**
+
+```yaml
+---
+- name: Time sync configuration
+  hosts: web
+
+  roles:
+    - rhel-system-roles.timesync
+```
 ---
 **Navigation**
 <br>

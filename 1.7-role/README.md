@@ -339,6 +339,6 @@ If it is not working make sure that `/etc/httpd/conf/httpd.conf` has `Listen 808
 ---
 **Navigation**
 <br>
-[Previous Exercise](../1.6-templates) - [Next Exercise](../1.8-rhe-system-roles)
+[Previous Exercise](../1.6-templates) - [Next Exercise](../1.8-rhel-system-roles)
 
 [Click here to return to the Ansible for Red Hat Enterprise Linux Workshop](../README.md#section-1---ansible-engine-exercises)

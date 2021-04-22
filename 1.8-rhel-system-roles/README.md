@@ -96,6 +96,12 @@ Some tasks will result in errors, because they attempt to stop services that are
 [student<X@>ansible ~]$ ansible-playbook configure_time.yml
 ```
 
+Make sure your changes were applied:
+
+```bash
+[student<X@>ansible ~]$ ansible web -m command -a 'chronyc sources'
+```
+
 ---
 **Navigation**
 <br>

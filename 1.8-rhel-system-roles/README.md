@@ -52,6 +52,7 @@ We can now list newly available RHEL System Roles on the system with the first c
 ---
 - name: Time sync configuration
   hosts: web
+  become: true
 
   roles:
     - rhel-system-roles.timesync
@@ -82,7 +83,9 @@ Create a new file group_vars/all/timesync.yml:
 timesync_ntp_provider: chrony
 
 timesync_ntp_servers:
-  - hostname: ???
+  - hostname: ntp1.net.berkeley.edu
+    iburst: yes
+  - hostname:  ntp2.net.berkeley.edu
     iburst: yes
 ```
 

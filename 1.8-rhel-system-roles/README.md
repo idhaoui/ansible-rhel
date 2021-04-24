@@ -85,7 +85,7 @@ timesync_ntp_provider: chrony
 timesync_ntp_servers:
   - hostname: ntp1.net.berkeley.edu
     iburst: yes
-  - hostname:  ntp2.net.berkeley.edu
+  - hostname: ntp2.net.berkeley.edu
     iburst: yes
 ```
 

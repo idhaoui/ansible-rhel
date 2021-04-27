@@ -58,7 +58,7 @@ Nous pouvons à présent lister les nouveaux RHEL System Roles installés sur le
     - rhel-system-roles.timesync
 ```
 
-### Etape 3 - Adapt the variables used within the role to suit your needs
+### Etape 3 - Adapter les variables du role 
 
 Regarder la section 'Variables' du role rhel-system-roles.timesync documentée dans le README :
 

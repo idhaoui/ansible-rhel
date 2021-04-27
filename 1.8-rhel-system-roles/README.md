@@ -13,6 +13,13 @@
 
 Red Hat Enterprise Linux includes Ansible system roles to simplify automation of common operations, and configuration of Red Hat Enterprise Linux subsystems.
 
+RHEL System Roles are a collection of Ansible roles and modules that provide a stable and consistent configuration interface to automate and manage multiple releases of Red Hat Enterprise Linux. The effort is based on development of the Linux System Roles upstream project.
+
+The RHEL System Roles are supported as provided from the following methods:
+- As an RPM package in the RHEL 7 Extras repository
+- As an RPM package in the RHEL 8 application Streams repository
+- In the future, as a supported collection in the Red Hat Automation Hub
+
 In this exercise you will:
 
 * Learn about RHEL System Roles included with Red Hat Enterprise Linux

@@ -39,7 +39,7 @@ Pour implémenter un conditionnel, l'instruction `when` doit être utilisée, su
 
 Pour plus d'informations à ce sujet, veuillez vous référer à la documentation: <http://jinja.pocoo.org/docs/2.10/templates/>
 
-À titre d'exemple, nous allons installé un serveur FTP, mais uniquement sur les hôtes qui se trouvent dans le groupe d'inventaire "ftpserver".
+À titre d'exemple, nous allons installer un serveur FTP, mais uniquement sur les hôtes qui se trouvent dans le groupe d'inventaire "ftpserver".
 
 Pour ce faire, modifiez d'abord l'inventaire pour ajouter un autre groupe et placez `node2` dedans. Assurez-vous que l'adresse IP de `node2` est toujours la même lorsque `node2` est répertorié. Modifiez l'inventaire `~/lab_inventory/hosts` pour qu'il ressemble à la liste suivante:
 

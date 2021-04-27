@@ -41,16 +41,8 @@ Si votre expérience est différente dans la planification de ces ateliers, veui
  - [Exercise 1.5 - Conditionals, Handlers and Loops](1.5-handlers/README.fr.md)
  - [Exercise 1.6 - Templates](1.6-templates/README.fr.md)
  - [Exercise 1.7 - Roles](1.7-role/README.fr.md)
+ - [Exercise 1.8 - RHEL System Roles](1.8-rhel-system-roles)
 
-## Section 2 - Exercices sur Ansible Tower
-
- - [Exercise 2.1 - Introduction to Tower](2.1-intro/README.fr.md)
- - [Exercise 2.2 - Inventories, credentials and ad hoc commands](2.2-cred/README.fr.md)
- - [Exercise 2.3 - Projects & job templates](2.3-projects/README.fr.md)
- - [Exercise 2.4 - Surveys](2.4-surveys/README.fr.md)
- - [Exercise 2.5 - Role based access control](2.5-rbac/README.fr.md)
- - [Exercise 2.6 - Workflows](2.6-workflows/README.fr.md)
- - [Exercise 2.7 - Wrap up](2.7-wrap/README.fr.md)
 
 ## Exercices supplémentaires
 

@@ -18,7 +18,7 @@
 
 Bien qu'il soit possible d'écrire un playbook dans un fichier comme nous l'avons fait tout au long de cet atelier, vous souhaiterez éventuellement réutiliser des fichiers et commencer à organiser les choses.
 
-Les rôles Ansible sont notre façon de procéder. Lorsque vous créez un rôle, vous déconstruisez votre playbook en parties et ces parties se trouvent dans une structure de répertoires. Ceci est expliqué plus en détail dans la [meilleure pratique](http://docs.ansible.com/ansible/playbooks_best_practices.html).
+Les rôles Ansible sont notre façon de procéder. Lorsque vous créez un rôle, vous déconstruisez votre playbook en parties et ces parties se trouvent dans une structure de répertoires. Ceci est expliqué plus en détail dans la [meilleure pratique](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html).
 
 Cet exercice couvrira:
 - la structure des dossiers d'un rôle Ansible
